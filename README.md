@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 I am Bhagyashree, a Technical Lead. A real enthusiast coder also interested in mentoring and I hope that one of my projects helps you solve a problem or learn something new. Here on my GitHub profile, you'll find a collection of articles, projects, and resources related to Java, Spring boot, Devops,Machine Learning and Generative Ai.
 
 
+![Uploading download (1).jpeg.jfif…]()
 
 ## Projects
 ### 1. [SpringBoot-openAi](https://github.com/BhagyashreeMP/SpringBoot-openAi)
