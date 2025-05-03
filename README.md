@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 I am Bhagyashree, a Technical Lead. A real enthusiast coder also interested in mentoring and I hope that one of my projects helps you solve a problem or learn something new. Here on my GitHub profile, you'll find a collection of articles, projects, and resources related to Java, Spring boot, Devops,Machine Learning and Generative Ai.
 
 ## 🔗 Live Preview
-
+<img src="./Image.png" alt="Portfolio Screenshot" width="550"/>
 [🔗 Click here to view my portfolio](https://bhagyashreemp.github.io/Portfolio/)
 
 
