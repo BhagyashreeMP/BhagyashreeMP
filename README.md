@@ -25,10 +25,10 @@ Portfolio Link: https://bhagyashreemp.github.io/Portfolio/
 <img src="./Image.png" alt="Portfolio Screenshot" width="550"/>
 
 ## Projects
-### 1. [generative-ai-roadmap]([https://github.com/BhagyashreeMP/generative-ai-roadmap])
+### 1. [generative-ai-roadmap](https://github.com/BhagyashreeMP/generative-ai-roadmap)
 - Comprehensive resources on Generative AI, including a detailed roadmap, projects, use cases, interview preparation, and coding preparation.
 
-### 2. [AI_Projects_list]([https://github.com/BhagyashreeMP/AI_Projects_list])
+### 2. [AI_Projects_list](https://github.com/BhagyashreeMP/AI_Projects_list)
 - 500 AI Machine learning Deep learning Computer vision NLP Projects with code !!!
 
 ### 3. [SpringBoot-openAi](https://github.com/BhagyashreeMP/SpringBoot-openAi)
